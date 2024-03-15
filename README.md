@@ -46,7 +46,7 @@
 #### Overall Process
 ###### - 기획, 서버구현, 프론트구현, PPT, 발표. 디자인, 서버배포
 #### 😺 My Role
-###### - 기획, 서버구현, 프론트구현, PPT, 발표. 디자인, 서버배포
+###### - 기획, 서버구현, 프론트구현, 건강 기록 등록 및 수정 기능 
 
 ## 🌏 IA(Information Architecture)
 <img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/bbeca95a-497e-4604-8327-21fd6e3c1e17">
