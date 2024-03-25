@@ -33,10 +33,6 @@
 
 밥장수는 특정 질병이나 알러지에 대한 정보를 바탕으로 개인에게 이로운 식단을 제공하며 혈압, 혈당, 몸무게와 같은 노인들의 건강 상태를 모니터링하기 쉽게하여 편의를 제공합니다. 이를 통해 노인들의 삶의 질과 건강을 향상시키는데 기여할 수 있다고 생각합니다.
 
-<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/ba7efad7-75c1-4d4a-9040-4d3176aa9a8f">
-<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/3c76b951-bb46-4989-a86c-d4dff7433982">
-
-
 ## ✏️ 사용한 공공데이터
 1. [식품의약품안전처_조리식품의 레시피 DB open API](https://www.data.go.kr/data/15060073/openapi.do)
 2. [농림수산식품교육문화정보원_제철 농산물 상세정보 open API](https://data.mafra.go.kr/opendata/data/indexOpenDataDetail.do)
@@ -49,14 +45,14 @@
 ###### - 기획, 서버구현, 프론트구현, 건강 기록 등록 및 수정 기능 
 
 ## 🌏 IA(Information Architecture)
-<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/bbeca95a-497e-4604-8327-21fd6e3c1e17">
+<img width="100%" alt="image" src="https://github.com/zzzxxcc123/Bobjangsu/assets/117971016/6f8ded6a-4e37-42e3-b8d6-d73291f1bffc">
 
 ## 🗓️ Work schedule
-<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/96bd99a9-6ff7-447b-b5e0-2a1351284d4c">
+<img width="100%" alt="image" src="https://github.com/zzzxxcc123/Bobjangsu/assets/117971016/96c7ad4e-7dcf-45ec-aed3-93ceeb5122f1">
 
 ## 🚀 Result
 ### 🎨 프론트 디자인 및 결과 PPT
-[밥장수 사용자 디자인 및 기능 PPT](https://github.com/sakongmyoungheun/test/files/14611508/KDT._._.pdf)
+[밥장수 사용자 디자인 및 기능 PPT](https://github.com/zzzxxcc123/Bobjangsu/files/14739339/default.pdf)
 
 ### 🖥️ 기능
 #### 사용자
@@ -75,7 +71,9 @@
 3. 시스템 모니터링
 
 ### 활용방안 및 기대효과
-<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/952df35c-0493-465f-a02f-570aec24eb5e">
+<img width="100%" alt="image" src="https://github.com/zzzxxcc123/Bobjangsu/assets/117971016/fc5dbe1b-bb84-4919-8598-66f73bc469c3">
 
 ### 🚀 트러블슈팅
-<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/afd7edc6-a786-497c-b320-f7fa58f3c063">
+<img width="100%" alt="image" src="https://github.com/zzzxxcc123/Bobjangsu/assets/117971016/ba0c02a3-aa60-4ea0-90f5-78e7f737d190">
+
+
