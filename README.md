@@ -1,5 +1,5 @@
 # 🍚 노인을 위한 식재료 및 식단 추천 어플리케이션
-<img width="100%" alt="image" src="https://github.com/sakongmyoungheun/test/assets/149550142/0be5d4f4-7924-4658-ae32-e3c8a84897a6">
+<img width="100%" alt="image" src="https://github.com/zzzxxcc123/Bobjangsu/assets/117971016/6edb9e8d-eafa-4b59-ba61-a906a70ed201">
 
 ##### 노인들의 체격에 따른 식단을 랜덤으로 추천해주는 어플
 ###### 인원 : 6명
